@@ -10,6 +10,9 @@ Setting the two parameters of the Smooth-stroke to 100% is not the best effect. 
 
 My SLOS-GIMPainter project is absolutely safe.
 I'm not afraid of being checked when I put the code on GitHub :)
+
+GIMP screenshot:
+https://raw.githubusercontent.com/SenlinOS/databox/master/For-Line-Art_SLOS-GIMPainter_screenshot.jpg
 --------------------------------------------
 
 中文：
