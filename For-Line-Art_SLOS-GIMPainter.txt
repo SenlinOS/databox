@@ -13,6 +13,9 @@ I'm not afraid of being checked when I put the code on GitHub :)
 
 GIMP screenshot:
 https://raw.githubusercontent.com/SenlinOS/databox/master/For-Line-Art_SLOS-GIMPainter_screenshot.jpg
+
+SLOS-GIMPainter project address:
+https://github.com/SenlinOS/SLOS-GIMPainter
 --------------------------------------------
 
 中文：
