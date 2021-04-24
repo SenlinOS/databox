@@ -6,7 +6,7 @@
 
 - If you installed the brush package according to the README method in my SLOS-GIMPainter project, you have already got this feature.
 
-# Manual saving of temporary presets in GIMP, prerequisites:
+**Manual saving of temporary presets in GIMP, prerequisites:**
 - Use the menu, Edit -> Preferences -> Folder(Folder Options) to add the corresponding folder directory. Do not copy to the GIMP-Profile-Folders.
 - After adding the corresponding folder directory, do not check the Checkbox. This will disable editing and keep the default value.
 
@@ -28,7 +28,7 @@
 
 - Right-click on the `028a_Roller Brush-3's Icon` and click <mark>**Save Tool Options to Preset**</mark> in the pop-up menu. "Reselect the Brush Preset" and the brush size for 028a_Roller Brush-3 will remain at: **12**. Manually saving temporary preset succeeded.
 
-<center>![temporary-presets](https://raw.githubusercontent.com/SenlinOS/databox/master/temporary-presets.jpg)</center>
+![temporary-presets](https://raw.githubusercontent.com/SenlinOS/databox/master/temporary-presets.jpg)
 
 Yes, this is the way to manually save temporary presets. Brush mode, brush opacity, brush angle, spacing, etc. can be temporarily saved manually as long as they are parameters included in the preset.
 
