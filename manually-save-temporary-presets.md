@@ -1,7 +1,7 @@
 # Manually save temporary presets in GIMP
 
 **"If only GIMP could temporarily save the brush size!"**
-<br />This is a feature I want, But GIMP doesn't seem to have this feature! But today I unexpectedly discovered this feature: **Manually save temporary presets in GIMP.**
+<br />This is a feature I want, But GIMP doesn't seem to have this feature! But today I stumbled across this feature: **Manually save temporary presets in GIMP.**
 <br />(Although it's not autosave, but it works pretty well. It can save all temporary presets, not just brush size.)
 
 - If you installed the brush package according to the README method in my SLOS-GIMPainter project, you have already got this feature.
