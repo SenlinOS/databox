@@ -36,4 +36,8 @@ Yes, this is the way to manually save temporary presets. Brush mode, brush opaci
 
 ---
 
+Video Demo: https://youtu.be/ZBRkZWnwI68
+
+---
+
 2021-04-25, By: SenlinOS
