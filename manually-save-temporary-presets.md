@@ -30,6 +30,8 @@
 
 ![temporary-presets](https://raw.githubusercontent.com/SenlinOS/databox/master/temporary-presets.jpg)
 
+`Updated on 2021-05-01. It's faster to click this button on the button bar. I hid the button bar before～`
+
 Yes, this is the way to manually save temporary presets. Brush mode, brush opacity, brush angle, spacing, etc. can be temporarily saved manually as long as they are parameters included in the preset.
 
 - When we restart GIMP and you reselect the brushes of SLOS-GIMPainter, all parameters will be the default values. Because of the correct installation method, the default parameters of SLOS-GIMPainter cannot be changed :)
