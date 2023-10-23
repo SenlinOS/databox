@@ -36,8 +36,9 @@
      id="defs1" /><g
      inkscape:label="图层 1"
      inkscape:groupmode="layer"
-     id="layer1"><rect
-       style="opacity:0.597468;fill:#3364a2;fill-opacity:1;stroke-width:0.178574"
+     id="layer1"
+     sodipodi:insensitive="true"><rect
+       style="opacity:1;fill:#3364a2;fill-opacity:1;stroke-width:0.178574"
        id="rect1"
        width="12.7"
        height="12.7"
